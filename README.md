@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Timofey Yelivanov
 
 💻 **Frontend Developer | React & TypeScript Enthusiast**  
-📍 this is my second account on github.
 🚀 Building modern, responsive, and user-friendly web applications.  
-📍 Remote | Open to relocation  
+📍 Remote | Open to relocation   
+📍 this is my second account on github.
 
 ---
 
